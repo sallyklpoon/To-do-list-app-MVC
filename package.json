@@ -1,0 +1,19 @@
+{
+  "name": "lab-8",
+  "version": "1.0.0",
+  "description": "MondoDB and server work for lab 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.3",
+    "node-session": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
