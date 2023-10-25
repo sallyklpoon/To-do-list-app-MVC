@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.12.3",
-    "node-session": "^1.2.1"
+    "mongoose": "5.12.3",
+    "node-session": "^1.2.1",
+    "minimist": "1.2.6",
+    "semver": "5.7.2",
+    "mongodb": "3.6.10"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
